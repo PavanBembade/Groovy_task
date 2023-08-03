@@ -1,0 +1,12 @@
+.cards {
+    border: none;
+    width: 509px;
+    padding: 40px;
+    position: absolute;
+    top: 14%;
+    left: 34%;
+    background: #d1cfcf;
+    transition: all 0.5s ease;
+}
+
+ 
